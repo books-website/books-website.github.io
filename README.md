@@ -17,11 +17,11 @@
         }
         #book-names{
             font-family:cursive;
-       
+            font-size: 1.5em;
             color:rgb(174, 209, 67);
         }
         #list{
-           
+           font-size: 1.1em;
             font-family:cursive;
             color:rgb(25, 27, 166);
         }
@@ -46,7 +46,7 @@
     <ul id="book-names">
         <li> Roald Dahl 
             
-            
+            </ul>
             
     
         
@@ -55,7 +55,7 @@
     <p>Roald Dahl is a very famous author of many books. I am not going to recommend just one of his books, <strong>because they are all so good!</strong> My <em>personal</em> favorites are James and the Giant Peach and Matilda. They are both fiction books.</p> 
     <img src="https://upload.wikimedia.org/wikipedia/en/6/6c/MatildaCover.jpg" width="200">
     <ul id="book-names">
-        <li> Diary of a Wimpy Kid</li>
+        <li> Diary of a Wimpy Kid
             
             
             
