@@ -91,7 +91,7 @@
         
         
         
-    <p>Hopefully taking the time to read my website has been productive for you and you have a book to read now. Most of these books I have recommended are in the higher grades of elementary school. If you can't read some, its fine. But for those who can, enjoy reading!<br><br><br><br><br></p>
+    <p>Hopefully taking the time to read my website has been productive for you and you have a book to read now. Most of these books I have recommended are in the higher grades of elementary school. If you can't read some, its fine. But for those who can, enjoy reading!<br><br></p>
         <p>Check out my other websites:</p>
     <a href="https://dilann2000.github.io/">Cancun Website<br></a>
     <a href="https://dilpickle2012.github.io/">Christmas Website</a>
