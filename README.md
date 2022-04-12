@@ -12,17 +12,17 @@
             background-color:rgb(0, 94, 28);
         }
         p{
-            font-size: 15px;
+            font-size: 20px;
             color:rgb(255, 255, 255);
             font-family:sans-serif;
         }
         #book-names{
             font-family:cursive;
-            font-size: 22px;
+            font-size: 25px;
             color:rgb(174, 209, 67);
         }
         #list{
-           font-size: 19px;
+           font-size: 22px;
             font-family:cursive;
             color:rgb(25, 27, 166);
         }
