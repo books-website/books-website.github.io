@@ -17,11 +17,11 @@
         }
         #book-names{
             font-family:cursive;
-            font-size:1.5em;
+       
             color:rgb(174, 209, 67);
         }
         #list{
-            font-size:1.1em;
+           
             font-family:cursive;
             color:rgb(25, 27, 166);
         }
