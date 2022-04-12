@@ -33,7 +33,7 @@
     <p>There are many different books that are meant for elementary school kids. Here in this website, I will be telling you about my <strong>top three</strong> favorite books, and some other good books that I have read. I am also in elemantary school, so my recommendations <em>might</em> be something you can or would read.
     </p>
     <ul id="book-names">
-        <li> Middle School 
+        <li> Middle School </li> 
        
             
             
@@ -45,7 +45,7 @@
     <p> Middle School is a realistic fiction book series about a kid named Rafe Katchadorian and him going through middle school. This series is <strong>very</strong> similar to Diary of a Wimpy Kid, so if you like Diary of a Wimpy Kid, you should definitely check out Middle School. By the way, there are 15 books in the series. </p>
     <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/Middle_School_The_Worst_Years_of_My_Life.jpg" width="200">
     <ul id="book-names">
-        <li> Roald Dahl 
+        <li> Roald Dahl </li> 
             
             
             
@@ -56,7 +56,7 @@
     <p>Roald Dahl is a very famous author of many books. I am not going to recommend just one of his books, <strong>because they are all so good!</strong> My <em>personal</em> favorites are James and the Giant Peach and Matilda. They are both fiction books.</p> 
     <img src="https://upload.wikimedia.org/wikipedia/en/6/6c/MatildaCover.jpg" width="200">
     <ul id="book-names">
-        <li> Diary of a Wimpy Kid
+        <li> Diary of a Wimpy Kid</li>
             
             
             
@@ -68,13 +68,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/e/e2/Diary_of_a_Wimpy_Kid%2C_The_Big_Shot.jpg" width="200">
     <p>Those were just my top three favorite books or book series'. Here are some <em>other</em> books that are good. I have read these too. </p>
     <ul id="list">
-        <li> Big Nate
-        <li> Crenshaw (lower elementary school level)
-        <li> Dragonsdale (slighty lower elementary school level)
-        <li> The Terrible Two
-        <li> Charlottes Web
-        <li> The Chronicles of Narnia
-        <li> Weird but True (Plus the variations like Believe it or Not and 100 Most Awesome Things on the Planet)
+        <li> Big Nate</li>
+        <li> Crenshaw (lower elementary school level)</li>
+        <li> Dragonsdale (slighty lower elementary school level)</li>
+        <li> The Terrible Two</li>
+        <li> Charlottes Web</li>
+        <li> The Chronicles of Narnia</li>
+        <li> Weird but True (Plus the variations like Believe it or Not and 100 Most Awesome Things on the Planet)</li>
             
             
             
