@@ -9,7 +9,7 @@
             font-family:cursive;
         }
         body{
-            background-color:rgb(0, 94, 28);
+            background-color:rgb(48, 12, 19);
         }
         p{
             font-size: 20px;
