@@ -47,6 +47,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/Middle_School_The_Worst_Years_of_My_Life.jpg" width="200">
     <ul id="book-names">
         <li> Roald Dahl </li> 
+        </ul>
             
             
             
@@ -58,6 +59,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/6/6c/MatildaCover.jpg" width="200">
     <ul id="book-names">
         <li> Diary of a Wimpy Kid</li>
+        </ul>
             
             
             
@@ -76,6 +78,7 @@
         <li> Charlottes Web</li>
         <li> The Chronicles of Narnia</li>
         <li> Weird but True (Plus the variations like Believe it or Not and 100 Most Awesome Things on the Planet)</li>
+        </ul>
             
             
             
